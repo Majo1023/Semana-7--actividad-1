@@ -1,0 +1,10 @@
+{
+  "mensaje": "Reporte registrado",
+  "reporte": {
+    "id": 1,
+    "tipo": "Infraestructura",
+    "descripcion": "Daño en alumbrado público"
+  }
+}
+
+Luego de realizar el comando la respuesta que me da el servidor es la anterior, lo que nos da a entender que se hizo de forma correcta
